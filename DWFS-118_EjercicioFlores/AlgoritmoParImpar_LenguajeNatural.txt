@@ -1,0 +1,8 @@
+Algoritmo en lenguaje natural:
+
+1. Inicio.
+2. Definir el número que se quiere evaluar si es par o impar.
+3. Dividir ese número entre 2.
+4. Si el residuo de esa división es 0, entonces el número es par.
+5. Por el contrario, si el residuo de la división es diferente de 0, entonces el número es impar.
+6. Fin.
